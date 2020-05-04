@@ -1,0 +1,7 @@
+BILL
+Order ID: 1
+Date: Fri May 01 20:39:23 EEST 2020
+Table number: 1
+Peanuts 2.0
+Salt 0.2
+Total cost: 2.2
