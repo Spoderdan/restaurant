@@ -1,2 +1,1 @@
-# PT2020_30422_Anghel_Dan-Marian_Assignment_4
-
+This application helps restaurants manage their menu, orders and bills for their customers.
